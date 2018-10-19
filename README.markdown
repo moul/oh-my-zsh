@@ -9,6 +9,8 @@ To learn more, visit http://ohmyz.sh and/or follow [ohmyzsh](https://twitter.com
 
 ## Getting Started
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/oh-my-zsh.svg)](https://www.guardrails.io)
+
 
 ### Prerequisites
 
